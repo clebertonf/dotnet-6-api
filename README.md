@@ -1,2 +1,2 @@
-## Study Project dotnet 6
+## Study Project dotnet 6 API
 
